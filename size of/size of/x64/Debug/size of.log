@@ -1,0 +1,18 @@
+﻿  源.cpp
+D:\C-code\size of\size of\源.cpp(5,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C-code\size of\size of\源.cpp(5,12): message : 请考虑在格式字符串中使用“%zd”
+D:\C-code\size of\size of\源.cpp(6,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C-code\size of\size of\源.cpp(6,12): message : 请考虑在格式字符串中使用“%zd”
+D:\C-code\size of\size of\源.cpp(7,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C-code\size of\size of\源.cpp(7,12): message : 请考虑在格式字符串中使用“%zd”
+D:\C-code\size of\size of\源.cpp(8,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C-code\size of\size of\源.cpp(8,12): message : 请考虑在格式字符串中使用“%zd”
+D:\C-code\size of\size of\源.cpp(9,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C-code\size of\size of\源.cpp(9,12): message : 请考虑在格式字符串中使用“%zd”
+D:\C-code\size of\size of\源.cpp(10,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C-code\size of\size of\源.cpp(10,12): message : 请考虑在格式字符串中使用“%zd”
+D:\C-code\size of\size of\源.cpp(11,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C-code\size of\size of\源.cpp(11,12): message : 请考虑在格式字符串中使用“%zd”
+D:\C-code\size of\size of\源.cpp(12,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C-code\size of\size of\源.cpp(12,12): message : 请考虑在格式字符串中使用“%zd”
+  size of.vcxproj -> D:\C-code\size of\x64\Debug\size of.exe
