@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "88a2abc6-52eb-4cd9-b636-ee47a76a052a": {
+      "ProjectGuid": "88a2abc6-52eb-4cd9-b636-ee47a76a052a",
+      "DisplayName": "1-100奇数",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
