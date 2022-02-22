@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "077e3fa5-61ff-419c-8ddf-1595c0d1ee49": {
+      "ProjectGuid": "077e3fa5-61ff-419c-8ddf-1595c0d1ee49",
+      "DisplayName": "define定义常量和宏",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
