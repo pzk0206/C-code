@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b1aae428-1864-4334-b256-3b70e5f9bf0f": {
+      "ProjectGuid": "b1aae428-1864-4334-b256-3b70e5f9bf0f",
+      "DisplayName": "static修饰局部变量",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
