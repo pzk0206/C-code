@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7bc35e42-9773-4a3e-ba03-eec3963e8037": {
+      "ProjectGuid": "7bc35e42-9773-4a3e-ba03-eec3963e8037",
+      "DisplayName": "结构体1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
