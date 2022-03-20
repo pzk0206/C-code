@@ -13,7 +13,8 @@ int main()
 		arr2[left] = arr1[left];
 		arr2[right] = arr1[right];
 		printf("%s\n", arr2);
-		Sleep(1000);              //单位毫秒，需要引用头文件<windows.h>，S大写
+		Sleep(1000);       //单位毫秒，需要引用头文件<windows.h>，S大写
+		system("cls");      //清空屏幕
 		left++;
 		right--;
 	}
